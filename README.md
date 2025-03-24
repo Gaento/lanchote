@@ -79,4 +79,4 @@ Muito obrigado por comprar na LANCHONETE DO GABRIEL! Volte sempre.
 
 ## Autor
 
-Desenvolvido por Gabriel.
+Desenvolvido por Gaento.
